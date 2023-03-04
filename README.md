@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unstoppable-coder777" alt="unstoppable-coder777" /></a> </p>
 
-- 🌱 I’m currently learning **java,jquery,css**
+- 🌱 I’m currently learning **python,javascript,css**
 
 - 📫 How to reach me **rohitsingh84010@gmail.com**
 
